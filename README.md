@@ -11,9 +11,6 @@ This app teaches a kind of Miwok language. It consists of four sections with aud
             <td style="padding:5px">
                 <img src="http://i.imgur.com/3bRU19f.png"alt="screenshot 2">
              </td>
-             <td style="padding:5px">
-                <img src="http://i.imgur.com/xeOOZPR.png"alt="screenshot 3">
-             </td>
         </tr>
     </table>
      <table>
@@ -23,9 +20,6 @@ This app teaches a kind of Miwok language. It consists of four sections with aud
               </td>
             <td style="padding:5px">
                 <img src="http://i.imgur.com/nb1gnYD.png"alt="screenshot 1"alt="screenshot 5">
-             </td>
-             <td style="padding:5px">
-                <img src="http://i.imgur.com/H6PlmsL.png"alt="screenshot 6">
              </td>
         </tr>
     </table>
