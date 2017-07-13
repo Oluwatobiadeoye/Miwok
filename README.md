@@ -1,7 +1,7 @@
 Miwok App
 ============
 
-This app teaches a kind of Miwok language. It consists of four sections with audio playback functionality to prononce each words in the sections. 
+This app teaches a kind of <a href="https://en.wikipedia.org/wiki/Miwok_languages"> Miwok</a> language. It consists of four sections with audio playback functionality to prononce each words in the sections. 
 <div id="image-table">
     <table>
         <tr>
@@ -9,7 +9,7 @@ This app teaches a kind of Miwok language. It consists of four sections with aud
                 <img src="http://i.imgur.com/kTZZTjJ.png" alt="screenshot 1">
               </td>
             <td style="padding:5px">
-                <img src="http://i.imgur.com/4jsfvmx.png"alt="screenshot 2">
+                <img src="http://i.imgur.com/4jsfvmx.png" alt="screenshot 2">
              </td>
         </tr>
     </table>
