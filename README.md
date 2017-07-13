@@ -6,24 +6,25 @@ This app teaches a kind of Miwok language. It consists of four sections with aud
     <table>
         <tr>
             <td style="padding:5px">
-                <img src="http://i.imgur.com/lJ9fTEK.png" alt="screenshot 1">
+                <img src="http://i.imgur.com/kTZZTjJ.png" alt="screenshot 1">
               </td>
             <td style="padding:5px">
-                <img src="http://i.imgur.com/3bRU19f.png"alt="screenshot 2">
+                <img src="http://i.imgur.com/4jsfvmx.png"alt="screenshot 2">
              </td>
         </tr>
     </table>
      <table>
         <tr>
             <td style="padding:5px">
-                <img src="http://i.imgur.com/tuDp6F9.png"alt="screenshot 4">
+                <img src="http://i.imgur.com/Zwu2elv.png"alt="screenshot 3">
               </td>
             <td style="padding:5px">
-                <img src="http://i.imgur.com/nb1gnYD.png"alt="screenshot 1"alt="screenshot 5">
+                <img src="http://i.imgur.com/xWbaqCW.png"alt="screenshot 4">
              </td>
         </tr>
     </table>
 </div>
+
 Pre-requisites
 --------------
 
